@@ -10,7 +10,6 @@ Welcome to **Skoegle-Tech** 🚀 — the official GitHub organization for all te
 The Skoegle-Tech organization is actively maintained by:
 
 * **Manoj** – Tech Lead
-* **Saurabh**
 * **Akruthi**
 * **Bhargava**
 * **Saurabh**
